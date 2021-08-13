@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/book-management-app/static/css/main.d76fdf06.chunk.css",
+    "main.js": "/book-management-app/static/js/main.64dc059f.chunk.js",
+    "main.js.map": "/book-management-app/static/js/main.64dc059f.chunk.js.map",
+    "runtime-main.js": "/book-management-app/static/js/runtime-main.e41deaab.js",
+    "runtime-main.js.map": "/book-management-app/static/js/runtime-main.e41deaab.js.map",
+    "static/css/2.27dd871e.chunk.css": "/book-management-app/static/css/2.27dd871e.chunk.css",
+    "static/js/2.140c1614.chunk.js": "/book-management-app/static/js/2.140c1614.chunk.js",
+    "static/js/2.140c1614.chunk.js.map": "/book-management-app/static/js/2.140c1614.chunk.js.map",
+    "index.html": "/book-management-app/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/book-management-app/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.d76fdf06.chunk.css.map": "/book-management-app/static/css/main.d76fdf06.chunk.css.map",
+    "static/js/2.140c1614.chunk.js.LICENSE.txt": "/book-management-app/static/js/2.140c1614.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e41deaab.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.140c1614.chunk.js",
+    "static/css/main.d76fdf06.chunk.css",
+    "static/js/main.64dc059f.chunk.js"
+  ]
+}
